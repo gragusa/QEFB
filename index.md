@@ -72,7 +72,7 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 14 [[video](https://unipiit.sharepoint.com/:v:/s/a_td_48117/EdL297r0cxVJjetCjFpKruAB1lv_SA8IELi9ymW3u_R0Tw?e=WwKDeA)] [[rmd](https://unipiit.sharepoint.com/:b:/s/a_td_48117/ESfyoNqouvVOmVNkCBcLf5gBWXH8UeQbp99E7laRLy0OMg?e=edEUQp)] [[R script](https://unipiit.sharepoint.com/:u:/s/a_td_48117/Eee3Jm9TXPNFtBeV-n5bs6wB2awNrI_DjKehlttExtFd8Q?e=ucwnVT)]
 
-- Lecture 15 [[video]] [[slides]]
+- Lecture 15 [[video]] [[slides](https://unipiit.sharepoint.com/:b:/s/a_td_48117/EcZAc2VOssNHrV4kBurcCBsBwgpzYPS8nVk0z2tmfY0Hug?e=MLWUHf)]
 
 ## R/Rstudio 👨‍💻️
 
