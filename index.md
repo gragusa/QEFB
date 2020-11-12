@@ -70,9 +70,11 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 13 [[video]](https://unipiit.sharepoint.com/sites/a_td_48117/Shared%20Documents/General/LectureVideos/13_reviewsession.mp4) [[slides]](https://teams.microsoft.com/l/file/5FF4A8E3-CB49-428B-B377-FA73879AB15F?tenantId=c7456b31-a220-47f5-be52-473828670aa1&fileType=pdf&objectUrl=https%3A%2F%2Funipiit.sharepoint.com%2Fsites%2Fa_td_48117%2FShared%20Documents%2FGeneral%2FLectureSlides%2Freviewsession.pdf&baseUrl=https%3A%2F%2Funipiit.sharepoint.com%2Fsites%2Fa_td_48117&serviceName=teams&threadId=19:5082f7d8664641d5b894c342ea097d03@thread.tacv2&groupId=c9939f5e-1fe4-49cc-b6b5-66718817b71c)
 
-- Lecture 14 [[video](https://unipiit.sharepoint.com/:v:/s/a_td_48117/EdL297r0cxVJjetCjFpKruAB1lv_SA8IELi9ymW3u_R0Tw?e=WwKDeA)] [[rmd](https://unipiit.sharepoint.com/:b:/s/a_td_48117/ESfyoNqouvVOmVNkCBcLf5gBWXH8UeQbp99E7laRLy0OMg?e=edEUQp)] [[R script](https://unipiit.sharepoint.com/:u:/s/a_td_48117/Eee3Jm9TXPNFtBeV-n5bs6wB2awNrI_DjKehlttExtFd8Q?e=ucwnVT)]
+- Lecture 14 [[video](https://unipiit.sharepoint.com/:v:/s/a_td_48117/EdL297r0cxVJjetCjFpKruAB1lv_SA8IELi9ymW3u_R0Tw?e=au2oS3)] [slides] [[rmd](https://unipiit.sharepoint.com/:b:/s/a_td_48117/ESfyoNqouvVOmVNkCBcLf5gBWXH8UeQbp99E7laRLy0OMg?e=edEUQp)] [[R script](https://unipiit.sharepoint.com/:u:/s/a_td_48117/Eee3Jm9TXPNFtBeV-n5bs6wB2awNrI_DjKehlttExtFd8Q?e=ucwnVT)]
 
-- Lecture 15 [[video]] [[slides](https://unipiit.sharepoint.com/:b:/s/a_td_48117/EcZAc2VOssNHrV4kBurcCBsBwgpzYPS8nVk0z2tmfY0Hug?e=MLWUHf)]
+
+
+- Lecture 15 [video] [[slides](https://unipiit.sharepoint.com/:b:/s/a_td_48117/EcZAc2VOssNHrV4kBurcCBsBwgpzYPS8nVk0z2tmfY0Hug?e=MLWUHf)]
 
 ## R/Rstudio 👨‍💻️
 
