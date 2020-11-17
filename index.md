@@ -70,10 +70,11 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 13 [[video]](https://unipiit.sharepoint.com/sites/a_td_48117/Shared%20Documents/General/LectureVideos/13_reviewsession.mp4) [[slides]](https://teams.microsoft.com/l/file/5FF4A8E3-CB49-428B-B377-FA73879AB15F?tenantId=c7456b31-a220-47f5-be52-473828670aa1&fileType=pdf&objectUrl=https%3A%2F%2Funipiit.sharepoint.com%2Fsites%2Fa_td_48117%2FShared%20Documents%2FGeneral%2FLectureSlides%2Freviewsession.pdf&baseUrl=https%3A%2F%2Funipiit.sharepoint.com%2Fsites%2Fa_td_48117&serviceName=teams&threadId=19:5082f7d8664641d5b894c342ea097d03@thread.tacv2&groupId=c9939f5e-1fe4-49cc-b6b5-66718817b71c)
 
-- Lecture 14 [[video](https://bit.ly/2UoE5W1)] [slides] [[rmd](https://bit.ly/35AoAAN)] [[R script](https://bit.ly/38IoGZ1)]
+- Lecture 14 [[video](https://bit.ly/2UoE5W1)] [[slides](https://bit.ly/3f5gD9A)] [[rmd](https://bit.ly/35AoAAN)] [[R script](https://bit.ly/38IoGZ1)]
 
 - Lecture 15 [[video](https://bit.ly/3npX1jo)] [[slides](https://bit.ly/35uogDf)]
 
+- Lecture 16 [video] [[slides](https://bit.ly/2Uz0Ruf)]
 
 
 ## R/Rstudio 👨‍💻️
