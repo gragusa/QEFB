@@ -76,7 +76,7 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 16 [[video](https://bit.ly/36OyApb)] [[slides](https://bit.ly/2Uz0Ruf)]
 
-- Lecture 17 [[video](https://bit.ly/3nCw7Fc)]
+- Lecture 17 [[video](https://bit.ly/3nCw7Fc)] [[R script](https://bit.ly/35SykGz)]
 
 ## R/Rstudio 👨‍💻️
 
