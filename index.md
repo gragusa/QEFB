@@ -78,6 +78,8 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 17 [[video](https://bit.ly/3nCw7Fc)] [[R script](https://bit.ly/35SykGz)]
 
+- Lecture 18 [[video](https://bit.ly/3nU60tt)] [slide] [[fatality data](https://bit.ly/3pZ9ih0)]
+
 ## R/Rstudio 👨‍💻️
 
 - Install R/Rstudio [[slides]](https://teams.microsoft.com/l/file/67CF5762-2545-4C16-A3D3-AC45135F2697?tenantId=c7456b31-a220-47f5-be52-473828670aa1&fileType=pdf&objectUrl=https%3A%2F%2Funipiit.sharepoint.com%2Fsites%2Fa_td_48117%2FShared%20Documents%2FGeneral%2FLectureSlides%2F00InstallR.pdf&baseUrl=https%3A%2F%2Funipiit.sharepoint.com%2Fsites%2Fa_td_48117&serviceName=teams&threadId=19:5082f7d8664641d5b894c342ea097d03@thread.tacv2&groupId=c9939f5e-1fe4-49cc-b6b5-66718817b71c)
