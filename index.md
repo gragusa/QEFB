@@ -78,7 +78,10 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 17 [[video](https://bit.ly/3nCw7Fc)] [[R script](https://bit.ly/35SykGz)]
 
-- Lecture 18 [[video](https://bit.ly/3nU60tt)] [[slides](https://bit.ly/2J5VuAh)] [[fatality data](https://bit.ly/3pZ9ih0)]
+- Lecture 18 [[video](https://bit.ly/3nU60tt)] [[slides](https://bit.ly/3g5aMSs)] [[fatality data](https://bit.ly/3pZ9ih0)]
+
+- Lecture 19 [[video](https://bit.ly/3qqzd14)] [[slides](https://bit.ly/3g5aMSs)] 
+
 
 ## R/Rstudio 👨‍💻️
 
