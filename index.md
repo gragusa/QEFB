@@ -84,7 +84,9 @@ There will be weekly tutorial sessions. These sessions are useful for reviewing 
 
 - Lecture 20 [[video](https://bit.ly/3mIaYJx)] [[slides](https://bit.ly/3g5aMSs)] 
 
-- Lecture 21 [[video](https://unipiit.sharepoint.com/sites/a_td_48117/Shared%20Documents/General/LectureVideos/21_IV.mp4)] [[slides]()] 
+- Lecture 21 [[video](https://unipiit.sharepoint.com/sites/a_td_48117/Shared%20Documents/General/LectureVideos/21_IV.mp4)] [[slides](https://bit.ly/3748gJi)]
+
+' Lecture 22 [[video]()] [[slides](https://bit.ly/3748gJi)]
 
 ## R/Rstudio 👨‍💻️
 
