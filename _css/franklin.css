@@ -120,7 +120,7 @@ html {
     text-align: center;}
 .franklin-content th, td{
     padding: 10px;
-    border: 1px solid rgb(206, 197, 197);}
+    }
 
 .franklin-content blockquote {
     background: #eeeeee;
