@@ -57,10 +57,10 @@ Here is a list of online resources that might be useful to master R:
 
 | Day       | Time  | Classroom |
 |-----------|-------|-----------|
-| Tuesday   | 14:45 | P1        |
-| Wednesday | 12:15 | P1        |
+| Tuesday   | 14:00 | 2         |
+| Wednesday | 12:15 | 3         |
 
-Lectures will be streamed live on Teams. A link to the stream will be made available on the [Teams Channel][] a few hours before the start of each class. Lectures will not be recorded, and in-person should be considered the standard way of attendance.
+Lectures will be streamed live on Teams. A link to the stream will be made available on the [Teams Channel](https://teams.microsoft.com/l/team/19%3ak0X8akVg6WLXmQKYowiSYlE-KE2gEf1ac1bItHiODUA1%40thread.tacv2/conversations?groupId=20b8edd7-eedc-47a8-b400-48476b862508&tenantId=c7456b31-a220-47f5-be52-473828670aa1) a few hours before the start of each class. Lectures will not be recorded, and in-person should be considered the standard way of attendance. 
 
 ## Assessment
 
