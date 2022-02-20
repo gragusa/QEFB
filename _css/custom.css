@@ -246,8 +246,8 @@ img[src*="#badge"] {
   
 .warning {
   margin-top: 1.5em;
-  width: 95%;
-  margin-left:auto;
+  width: 99%;
+  margin-left:0px;
   margin-right:auto;
   background-color:  #ffcccc;
   border-radius: 5px;
