@@ -102,8 +102,8 @@ No student will be allowed to take the exam on two subsequent dates -- **no exce
 
 Lecture slides will be posted here.
 
-- [Lecture 01]()
-- [Lecture 02]()
+- [Lecture 01](https://unipiit.sharepoint.com/:b:/s/a__td_52512/EaCsnBbXPd1NnJxYxl1XawIBGUVxP_gtApX1dm2LU270EQ?e=omCatd)
+- [Lecture 02](https://unipiit.sharepoint.com/:b:/s/a__td_52512/EcV8emRO0-VJjkyZAMeon_wBvtGAa62DnZjEOh415o0nPw?e=XCEr6h)
 - [Lecture 03]()
 - [Lecture 04]()
 - [Lecture 05]()
