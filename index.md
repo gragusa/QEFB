@@ -84,7 +84,7 @@ Date of the midterm: TBA
 Students who do not turn in the homework assignments or do not take the midterm can take a **(much) longer final exam worth 100% of the grade**. This option is also available to students who prefer to forfeit their grades on *both* midterm and homework assignments.
 
 \warn{
-Homework assignments and midterm exam go together. If a student fails to score at least 18/30 on the midterm, then she will automathically **forfeit** her grades on the homework assignements. The same hold true if she fails to turn in even one assignment or does not score 18/30 in one of them. 
+Homework assignments and the midterm exam go together. If a student fails to score at least 18/30 on the midterm, then she will automatically **forfeit** her grades on the homework assignements. The same hold true if she fails to turn in even one assignment or does not score 18/30 in one of them. 
 }
 
 I strongly urge students to take the midterm **and** turn in all the homework assignments -- this option makes passing the course with a satisfactory grade much easier. 
@@ -100,12 +100,12 @@ No student will be allowed to take the exam on two subsequent dates -- **no exce
 
 ## Slides 📓
 
-Lecture slides will be posted here.
+Lecture slides. You can access these files under the Files section of the [Teams Channel][]
 
-- [Lecture 01](https://unipiit.sharepoint.com/:b:/s/a__td_52512/EaCsnBbXPd1NnJxYxl1XawIBGUVxP_gtApX1dm2LU270EQ?e=omCatd)
-- [Lecture 02](https://unipiit.sharepoint.com/:b:/s/a__td_52512/EcV8emRO0-VJjkyZAMeon_wBvtGAa62DnZjEOh415o0nPw?e=XCEr6h)
+- [Lecture 01]() [[pdf]](https://unipiit.sharepoint.com/sites/a__td_52512/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200019429B9D15C3BE4C9F9165AFF0A27404&id=%2Fsites%2Fa%5F%5Ftd%5F52512%2FShared%20Documents%2FGeneral%2FLecture%5F01%5Fintroduction%2Epdf&parent=%2Fsites%2Fa%5F%5Ftd%5F52512%2FShared%20Documents%2FGeneral&download=1)
+- [Lecture 02]() [[html]](https://unipiit.sharepoint.com/:u:/s/a__td_52512/ETWZAcUXlx1PsIhumCr-czABzAQ-SYTlozwjnDr_1_Ng3Q?e=IjwWc1&download=1) [[pdf]](https://unipiit.sharepoint.com/:b:/s/a__td_52512/Efr9X6WAy_BIhe5wnv9aYFEBlQakqaXroWRO9On4xLpewg?e=is64Fc&download=1) [Rmd](https://unipiit.sharepoint.com/:u:/s/a__td_52512/EVUbxeZ0BxFPmA3nv8Vx-h8BxGjDHKNar-_9XV8k-SRhNw?e=hdgGx2&download=1)
 - [Lecture 03]()
-- [Lecture 04]()
+- [Lecture 04]() [[pdf]](https://unipiit.sharepoint.com/:b:/s/a__td_52512/ESBXuQMkaiNKibaV6rYHQIYBUQAS-gps-2xJgvUpxI6ISQ?e=S8Deep&download=1)
 - [Lecture 05]()
 - [Lecture 06]()
 - [Lecture 07]()
