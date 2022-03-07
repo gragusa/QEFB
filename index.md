@@ -102,12 +102,13 @@ No student will be allowed to take the exam on two subsequent dates -- **no exce
 
 Lecture slides. You can access these files under the Files section of the [Teams Channel][]
 
-- [Lecture 01]() [[pdf]](https://unipiit.sharepoint.com/sites/a__td_52512/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200019429B9D15C3BE4C9F9165AFF0A27404&id=%2Fsites%2Fa%5F%5Ftd%5F52512%2FShared%20Documents%2FGeneral%2FLecture%5F01%5Fintroduction%2Epdf&parent=%2Fsites%2Fa%5F%5Ftd%5F52512%2FShared%20Documents%2FGeneral&download=1)
-- [Lecture 02]() [[html]](https://unipiit.sharepoint.com/:u:/s/a__td_52512/ETWZAcUXlx1PsIhumCr-czABzAQ-SYTlozwjnDr_1_Ng3Q?e=IjwWc1&download=1) [[pdf]](https://unipiit.sharepoint.com/:b:/s/a__td_52512/Efr9X6WAy_BIhe5wnv9aYFEBlQakqaXroWRO9On4xLpewg?e=is64Fc&download=1) [Rmd](https://unipiit.sharepoint.com/:u:/s/a__td_52512/EVUbxeZ0BxFPmA3nv8Vx-h8BxGjDHKNar-_9XV8k-SRhNw?e=hdgGx2&download=1)
+- [Lecture 01]() [[pdf]](https://tinyurl.com/bdbcyyy8)
+- [Lecture 02]() [[html]](https://unipiit.sharepoint.com/sites/a__td_52512/ETWZAcUXlx1PsIhumCr-czABzAQ-SYTlozwjnDr_1_Ng3Q?e=IjwWc1&download=1) [[pdf]](https://tinyurl.com/2easrk52) [[Rmd]](https://tinyurl.com/2p8n6x4p)
 - [Lecture 03]()
-- [Lecture 04]() [[pdf]](https://unipiit.sharepoint.com/:b:/s/a__td_52512/ESBXuQMkaiNKibaV6rYHQIYBUQAS-gps-2xJgvUpxI6ISQ?e=S8Deep&download=1)
-- [Lecture 05]() [(pdf)](https://unipiit.sharepoint.com/:b:/s/a__td_52512/Eb-sa5kOGY1Hu5pzCepb1lYBptQlU0cXLLiiUbuayK_qCA?e=mECxXp&download=1)
-- [Lecture 06]() [(pdf)](https://unipiit.sharepoint.com/:b:/s/a__td_52512/EQsU0uc4v2BMrSKAtzx0aIUBLfvs3zA_H2tPLa5Q21M60A?e=ySNmyW&download=1)
+- [Lecture 04]() [[pdf]](https://tinyurl.com/yckm8nh4)
+- [Lecture 05]() [[pdf]](https://tinyurl.com/4sabmbd2) [[Addendum pdf]](https://tinyurl.com/yn4d48t6) [[Rmd]](https://unipiit.sharepoint.com/:u:/s/a__td_52512/EZcN2er0xO5FrFOmIkPXLQ8BahoeXg3KAJ5ifDgqRctytA?e=leU4fU&download=1)
+
+- [Lecture 06]() [[pdf]](https://tinyurl.com/2p87pufm)
 - [Lecture 07]()
 - [Lecture 08]()
 - [Lecture 09]()
