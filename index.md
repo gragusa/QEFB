@@ -109,7 +109,7 @@ Lecture slides. You can access these files under the Files section of the [Teams
 - [Lecture 05]() [[pdf]](https://tinyurl.com/4sabmbd2) [[Addendum pdf]](https://tinyurl.com/yn4d48t6) [[Rmd]](https://unipiit.sharepoint.com/:u:/s/a__td_52512/EZcN2er0xO5FrFOmIkPXLQ8BahoeXg3KAJ5ifDgqRctytA?e=leU4fU&download=1)
 
 - [Lecture 06]() [[pdf]](https://tinyurl.com/2p87pufm)
-- [Lecture 07]()
+- [Lecture 07]() [[pdf]](https://bit.ly/3MMhvR4)
 - [Lecture 08]()
 - [Lecture 09]()
 - [Lecture 10]()
