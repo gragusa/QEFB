@@ -7,7 +7,7 @@
 
 ## Description
 
-Quantitative Economics for Business aims to provide an introduction to the practice of econometrics.
+Quantitative Economics for Business aims to introduce the practice of econometrics.
 
 We will cover theoretical and practical aspects, but the emphasis will be on intuitive understanding. Real-world business applications will introduce econometric techniques and concepts. Learning by doing is essential to master econometrics: students will do a fair amount of hands-on work.
 
@@ -32,7 +32,7 @@ The textbook for this course is Stock and Watson's Introduction to Econometrics:
 
 - Stock, James H. and Mark W. Watson, _Introduction to Econometrics_, Addison Wesley; 3rd edition, ISBN: 1408264331
 
-Stock and Watson's Introduction to Econometrics is nicely organized and easy to read. However, a more complete treatment of the topics covered in this course is:
+Stock and Watson's Introduction to Econometrics is nicely organized and easy to read. However, a more exhaustive treatment of the topics covered in this course is:
 
 - Jeffrey Wooldridge, _Introductory Econometrics_, South Western, fourth edition, 4th edition, ISBN: 0324788908
 
@@ -63,12 +63,12 @@ Lectures will be streamed live on Teams. A link to the stream will be made avail
 
 ## Communication
 
-I will not reply to email. Please, use the dedicated [Teams Channel][] to get in touch with me. 
+I will not reply to emails. Instead, please, use the dedicated [Teams Channel][] to get in touch with me. 
 
 \warn{
 ![](https://www.universityaffairs.ca/wp-content/uploads/2021/08/syllabus.png)
 
-_Note:_ _The syllabus is basically this page._
+_Note:_ _The syllabus is this page._
 }
 ## Assessment
 
@@ -78,16 +78,17 @@ The final grade is based on:
 2. Midterm (35%)
 3. Final exam (30%)
 
-Date of the midterm: TBA
-
+\warn{
+Date of the midterm: **April 5, 2022**
+}
 
 Students who do not turn in the homework assignments or do not take the midterm can take a **(much) longer final exam worth 100% of the grade**. This option is also available to students who prefer to forfeit their grades on *both* midterm and homework assignments.
 
 \warn{
-Homework assignments and the midterm exam go together. If a student fails to score at least 18/30 on the midterm, then she will automatically **forfeit** her grades on the homework assignements. The same hold true if she fails to turn in even one assignment or does not score 18/30 in one of them. 
+Homework assignments and the midterm exam go together. If a student fails to score at least 18/30 on the midterm, she will automatically **forfeit** her grades on the homework assignments. The same holds if she fails to turn in even one assignment or does not score 18/30 in one of them. 
 }
 
-I strongly urge students to take the midterm **and** turn in all the homework assignments -- this option makes passing the course with a satisfactory grade much easier. 
+I strongly urge students to take the midterm **and** turn in all the homework assignments -- this option makes passing the course with a satisfactory grade more manageable. 
 
 
 \warn{
@@ -109,10 +110,8 @@ Lecture slides. You can access these files under the Files section of the [Teams
 - [Lecture 05]() [[pdf]](https://tinyurl.com/4sabmbd2) [[Addendum pdf]](https://tinyurl.com/yn4d48t6) [[Rmd]](https://unipiit.sharepoint.com/:u:/s/a__td_52512/EZcN2er0xO5FrFOmIkPXLQ8BahoeXg3KAJ5ifDgqRctytA?e=leU4fU&download=1)
 
 - [Lecture 06]() [[pdf]](https://tinyurl.com/2p87pufm)
-- [Lecture 07]() [[pdf]](https://bit.ly/3Jdy0mT)
-- [Lecture 08]()
-- [Lecture 09]()
-- [Lecture 10]()
+- [Lecture 07 & 08]() [[pdf]](http://shurl.ec.unipi.it/r7mMLL)
+- [Lecture 09 & 10]() [[pdf]](http://shurl.ec.unipi.it/WDzeg4)
 - [Lecture 11]()
 - [Lecture 12]()
 - [Lecture 13]()
