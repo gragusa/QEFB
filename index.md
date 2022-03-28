@@ -112,7 +112,7 @@ Lecture slides. You can access these files under the Files section of the [Teams
 - [Lecture 06]() [[pdf]](https://tinyurl.com/2p87pufm)
 - [Lecture 07 & 08]() [[pdf]](http://shurl.ec.unipi.it/r7mMLL)
 - [Lecture 09 & 10]() [[pdf]](http://shurl.ec.unipi.it/WDzeg4)
-- [Lecture 11]()
+- [Lecture 11]() [[pdf]](http://shurl.ec.unipi.it/498ZZs)
 - [Lecture 12]()
 - [Lecture 13]()
 - [Lecture 14]()
