@@ -114,13 +114,7 @@ Lecture slides. You can access these files under the Files section of the [Teams
 - [Lecture 09 & 10]() [[pdf]](http://shurl.ec.unipi.it/WDzeg4)
 - [Lecture 11]() [[pdf]](http://shurl.ec.unipi.it/498ZZs)
 - [Lecture 12]() [[pdf]](http://shurl.ec.unipi.it/M2PT6h)
-- [Lecture 14]()
-- [Lecture 15]()
-- [Lecture 16]()
-- [Lecture 17]()
-- [Lecture 18]()
-- [Lecture 19]()
-- [Lecture 20]()
+- [Lecture 14&15]() [[pdf]](http://shurl.ec.unipi.it/lecture1415)
 
 [Teams Channel]: https://teams.microsoft.com/l/team/19%3ak0X8akVg6WLXmQKYowiSYlE-KE2gEf1ac1bItHiODUA1%40thread.tacv2/conversations?groupId=20b8edd7-eedc-47a8-b400-48476b862508&tenantId=c7456b31-a220-47f5-be52-473828670aa1
 
